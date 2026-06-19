@@ -1,1 +1,1 @@
-Hello! If you'd like to know a little bit more about me, come check out my [Obsidian website](https://nicolasrooney.com/), as most of what is posted on GitHub is complementary to this website.
+Hello! If you'd like to know a little bit more about me, come check out my [Obsidian website](https://nicolasrooney.com/).
